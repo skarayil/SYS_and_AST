@@ -1,4 +1,4 @@
-# 🌳 Parsing & AST
+<img width="480" height="270" alt="Glitch Coding GIF by Squirrel Monkey" src="https://github.com/user-attachments/assets/600d16ef-1b4a-462d-9a76-1f9bd1720121" /><img width="480" height="270" alt="Glitch Coding GIF by Squirrel Monkey" src="https://github.com/user-attachments/assets/809a13ec-0f1b-4916-b77e-5f3ced84f22e" /># 🌳 Parsing & AST
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 
 ## 🎯 Projenin Amacı
 
-<img align="right" alt="Algorithm Animation" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29ha2xqaW1jM3k2bHFlZGIyZG1xMXhjYzZncjR3Z3Qxb2RjMW5vZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bjC8sdurIYfElHXfxR/giphy.gif">
+<img align="right" alt="Algorithm Animation" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNmYmk1dTFtcTkxd3lsd2p2MjB2ejRwaGwya2VsYXJlZDdldjV3biZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7uDtQm2jKdS0VGLg46/giphy.gif">
 
 Bu bölüm tamamen **ayrıştırma (parsing)** ve **soyut sözdizimi ağacı (AST)** üzerinedir. Ham bir metni — bir matematik ifadesini ya da bir JSON girdisini — karakter karakter okuyup bellekte bir **ağaç yapısına** dönüştürmeyi öğrenirsin. Her egzersiz aynı fikri farklı bir problemde uygular:
 
