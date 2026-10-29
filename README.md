@@ -1,4 +1,4 @@
-<img width="480" height="270" alt="Glitch Coding GIF by Squirrel Monkey" src="https://github.com/user-attachments/assets/600d16ef-1b4a-462d-9a76-1f9bd1720121" /><img width="480" height="270" alt="Glitch Coding GIF by Squirrel Monkey" src="https://github.com/user-attachments/assets/809a13ec-0f1b-4916-b77e-5f3ced84f22e" /># 🌳 Parsing & AST
+# 🌳 Parsing & AST
 
 <div align="center">
 
